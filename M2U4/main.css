@@ -33,9 +33,6 @@ body {
         text-align: center;
     }
     }
-}
-
-/* MEDIA QUERIES PANTALLA EXTRA-SM*/
 
 @media (max-width:576px) {
     .icono-wrap{
