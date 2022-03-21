@@ -48,15 +48,6 @@ app.get('/Salir', function(req, res) {
   res.redirect('/');
 });
 
-
-//app.get('/ejemplo', function(req, res){
- // if (req.session.nombre) {
- //   res.send('Hola ' + req.session.nombre) ;
- // } else {
- //   res.send('Hola usuario desconocido.') ;
- // }
-// })
-
 //app.use('/', indexRouter);
 //app.use('/users', usersRouter);
 
